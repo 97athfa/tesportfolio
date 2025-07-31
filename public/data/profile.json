@@ -1,28 +1,18 @@
 {
-    "name": "Roy Sheppard",
+    "name": "Athaya Rafa",
     "profilePictureUrl": "images/pictures/avatar.jpg",
 
     "locales": {
         "en": {
             "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "role": "Graphic Designer, 2D Illustrator"
         },
 
-        "es": {
+        "id": {
             "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
-        },
-
-        "fr": {
-            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
-        },
-
-        "zh": {
-            "name": "罗伊谢帕德",
-            "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "role": "Desainer grafis, Illustrator 2d"
         }
+
     },
 
     "contactOptions": [
