@@ -14,7 +14,7 @@
                     "id": 1,
                     "dateStart": {"year": 2014, "month": 0},
                     "dateEnd": {"year": 2015, "month": 0},
-                    "img": "",
+                    "img": "images/places/kisaienter.png",
                     "fallbackFaIcon": "fa-solid fa-laptop-code",
                     "fallbackFaIconColor": "#140f29",
 
@@ -22,9 +22,9 @@
                         "en": {
                             "title": "Techinal Course of KY Experience Day from Kisai Entertaiment",
                             "description": "Completed a technical course focusing on software development fundamentals, including object-oriented programming, web development, and database management. Developed several projects applying real-world coding skills.",
-                            "province": "San Francisco",
-                            "country": "US",
-                            "institution": "Codecademy",
+                            "province": "East Java",
+                            "country": "Indonesian",
+                            "institution": "Kisai Entertainment",
                             "tags": []
                         },
 
@@ -69,7 +69,7 @@
                     "id": 2,
                     "dateStart": {"year": 2021, "month": 0},
                     "dateEnd": {"year": 2021, "month": 6},
-                    "img": "images/places/logo-harvard.png",
+                    "img": "images/places/infinite.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
 
@@ -124,7 +124,7 @@
                     "id": 3,
                     "dateStart": {"year": 2021, "month": 0},
                     "dateEnd": {"year": 2025, "month": 0},
-                    "img": "images/places/logo-paris-university.png",
+                    "img": "images/places/upn.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
 
