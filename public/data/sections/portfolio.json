@@ -34,6 +34,13 @@
                     "category_productivity": "生产力",
                     "category_social": "社交",
                     "category_utilities": "工具"
+                },
+                "id": {
+                    "title": null,
+                    "category_all": "Semua",
+                    "category_productivity": "Produktifitas",
+                    "category_social": "Sosial Media",
+                    "category_utilities": "Utilitas"
                 }
             },
             "settings": {

@@ -7,7 +7,8 @@
                 "en": {"title": "Awards"},
                 "es": {"title": "Premios"},
                 "fr": {"title": "Prix"},
-                "zh": {"title": "奖项"}
+                "zh": {"title": "奖项"},
+                "id": {"title": "Penghargaan"}               
             },
             "settings": {
                 "order_items_by": "id",
@@ -159,7 +160,9 @@
                 "en": {"title": "Certifications"},
                 "es": {"title": "Certificaciones"},
                 "fr": {"title": "Certifications"},
-                "zh": {"title": "获得的证书"}
+                "zh": {"title": "获得的证书"},
+                "id": {"title": "Sertifikasi"}
+                
             },
             "settings": {
                 "order_items_by": "id",

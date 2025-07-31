@@ -23,6 +23,11 @@
                     "contact_thank_you": "*感谢*您的联系！",
                     "contact_thank_you_description": "您的消息已收到，我会尽快与您联系。感谢您的时间，期待与您交流！",
                     "contact_thank_you_reply": "我们的回复将发送至您的电子邮件地址 *{email}*。"
+                },
+                "id": {
+                    "contact_thank_you": "*Terima kasih* telah menghubungi!",
+                    "contact_thank_you_description": "Pesan anda telah diterima, dan saya akan segera menghubungi anda. Terima kasih atas waktunya, semoga kita bisa segera terhubung!",
+                    "contact_thank_you_reply": "The reply will be sent to your email address *{email}*."
                 }
             },
             "settings": {
@@ -54,6 +59,10 @@
                 "zh": {
                     "title": "或者...",
                     "description": "如果您愿意，您可以通过以下方式与我取得联系:"
+                },
+                "id": {
+                    "title": "Atau...",
+                    "description": "Jika anda berkenan, anda bisa menghubungi saya melalui pilihan berikut:"
                 }
             },
             "settings": {

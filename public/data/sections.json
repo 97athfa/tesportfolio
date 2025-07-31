@@ -35,6 +35,12 @@
                     "title_short": null,
                     "description": "A glimpse into my academic trajectory and accomplishments.Sekilas tentang perjalanan dan pencapaian akademik saya.",
                     "nav_label": "Education"
+                },
+                "id": {
+                    "title": "Latar *Pendidikan*",
+                    "title_short": null,
+                    "description": "Sekilas tentang perjalanan dan pencapaian akademik saya.",
+                    "nav_label": "Pendidikan"
                 }
             }
         },
@@ -92,6 +98,12 @@
                     "title_short": null,
                     "description": "了解我的工作经验和职业之旅。",
                     "nav_label": "工作经历"
+                },
+                "id": {
+                    "title": "*Pengalaman *Profesional*",
+                    "title_short": null,
+                    "description": "Sekilas tentang pengalaman kerja dan karir saya.",
+                    "nav_label": "Pengalaman"
                 }
             }
         },
@@ -134,7 +146,7 @@
                 },
                 "id": {
                     
-  "title": "Pencapaian *Profesional*",
+  "title": "Pencapaian *Karir*",
   "title_short": null,
   "description": "Perjalanan saya sebagai desainer UX ditandai oleh dedikasi yang tak tergoyahkan terhadap pembelajaran dan peningkatan keterampilan, serta partisipasi antusias dalam berbagai acara desain. Sebagai hasilnya, saya telah mengumpulkan daftar penghargaan dan sertifikasi yang patut dicatat:",
   "nav_label": "Pencapaian"
