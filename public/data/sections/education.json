@@ -9,64 +9,18 @@
                 "order_items_sort": "desc"
             },
             "items": [
+
                 {
                     "id": 1,
-                    "dateStart": {"year": 2014, "month": 1},
-                    "dateEnd": {"year": 2014, "month": 7},
-                    "img": "images/places/logo-udacity.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-
-                    "locales": {
-                        "en": {
-                            "title": "Pre-University Program in Computer Science",
-                            "description": "Completed a preparatory program covering foundational computer science topics such as programming, algorithms, and data structures. Gained hands-on experience with problem-solving and logical thinking.",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Udacity",
-                            "tags": []
-                        },
-
-                        "es": {
-                            "title": "Programa Preuniversitario en Informática",
-                            "description": "Completó un programa preparatorio que cubría temas fundamentales de informática como programación, algoritmos y estructuras de datos. Adquirió experiencia práctica en resolución de problemas y pensamiento lógico.",
-                            "province": "Toronto",
-                            "country": "Canadá",
-                            "institution": "Udacity",
-                            "tags": []
-                        },
-
-                        "fr": {
-                            "title": "Programme Pré-Universitaire en Informatique",
-                            "description": "A achevé un programme préparatoire couvrant les bases de l'informatique, notamment la programmation, les algorithmes et les structures de données. Acquis une expérience pratique en résolution de problèmes et en pensée logique.",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Udacity",
-                            "tags": []
-                        },
-
-                        "zh": {
-                            "title": "大学预科计算机科学课程",
-                            "description": "完成了一项涵盖计算机科学基础知识的预科课程，如编程、算法和数据结构。获得了解决问题和逻辑思维的实践经验。",
-                            "province": "多伦多",
-                            "country": "加拿大",
-                            "institution": "Udacity",
-                            "tags": []
-                        }
-                    }
-                },
-
-                {
-                    "id": 2,
-                    "dateStart": {"year": 2014, "month": 10},
-                    "dateEnd": {"year": 2015, "month": 6},
+                    "dateStart": {"year": 2014, "month": 0},
+                    "dateEnd": {"year": 2015, "month": 0},
                     "img": "",
                     "fallbackFaIcon": "fa-solid fa-laptop-code",
                     "fallbackFaIconColor": "#140f29",
 
                     "locales": {
                         "en": {
-                            "title": "Technical Course in Programming",
+                            "title": "Techinal Course of KY Experience Day from Kisai Entertaiment",
                             "description": "Completed a technical course focusing on software development fundamentals, including object-oriented programming, web development, and database management. Developed several projects applying real-world coding skills.",
                             "province": "San Francisco",
                             "country": "US",
@@ -99,25 +53,33 @@
                             "country": "美国",
                             "institution": "Codecademy",
                             "tags": []
-                        }
+                        },
+                        "id": {
+                            "title": "Pelatihan KY Experience Day dari Kisai Entertaiment ",
+                            "description": "完成了一门技术课程，重点讲解软件开发基础，包括面向对象编程、网页开发和数据库管理。开发了多个项目，应用了实际的编码技能。",
+                            "province": "Jawa Timur",
+                            "country": "Indonesia",
+                            "institution": "Kisai Entertainment",
+                            "tags": []
+                        }                        
                     }
                 },
 
                 {
-                    "id": 3,
-                    "dateStart": {"year": 2015, "month": 8},
-                    "dateEnd": {"year": 2018, "month": 5},
+                    "id": 2,
+                    "dateStart": {"year": 2021, "month": 0},
+                    "dateEnd": {"year": 2021, "month": 6},
                     "img": "images/places/logo-harvard.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
 
                     "locales": {
                         "en": {
-                            "title": "Bachelor's in Graphic Design with UX Emphasis",
+                            "title": "Completed a technical course focusing on game development fundamentals, including object-oriented programming, game asset creation and management, and story boarding. Developed a game project as a final exam of the technical course.",
                             "description": "Graduated with a solid foundation in graphic design while specializing in user experience design. Acquired expertise in visual storytelling, UI design, and collaborative design thinking.",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "Harvard University",
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Infinite Learning",
                             "tags": []
                         },
 
@@ -146,21 +108,29 @@
                             "country": "美国",
                             "institution": "哈佛大学",
                             "tags": []
-                        }
+                        },
+                        "id": {
+                            "title": "Pelatihan Game Development oleh Infinite Learning",
+                            "description": "Menyelesaikan kursus teknis yang berfokus pada dasar-dasar pengembangan game, termasuk pemrograman berorientasi objek, pembuatan dan manajemen aset game, serta pembuatan storyboard. Mengembangkan sebuah proyek game sebagai ujian akhir dari kursus tersebut.",
+                            "province": "Jawa Timur",
+                            "country": "Indonesia",
+                            "institution": "Infinite Learning",
+                            "tags": []
+                        }                        
                     }
                 },
 
                 {
-                    "id": 4,
-                    "dateStart": {"year": 2018, "month": 9},
-                    "dateEnd": {"year": 2020, "month": 5},
+                    "id": 3,
+                    "dateStart": {"year": 2021, "month": 0},
+                    "dateEnd": {"year": 2025, "month": 0},
                     "img": "images/places/logo-paris-university.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
 
                     "locales": {
                         "en": {
-                            "title": "Master's in Human-Computer Interaction",
+                            "title": "Bachelor's in Visual Design",
                             "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies.",
                             "province": "",
                             "country": "France",
@@ -193,7 +163,15 @@
                             "country": "法国",
                             "institution": "巴黎大学",
                             "tags": []
-                        }
+                        },
+                        "id": {
+                            "title": "Sarjana Desain Komunikasi Visual",
+                            "description": "Lulus dengan dasar yang kuat dalam desain grafis dan mengambil spesialisasi di bidang desain 2D. Menguasai keterampilan dalam storytelling visual dan pemikiran desain kolaboratif.",
+                            "province": "Jawa Timur",
+                            "country": "Indonesia",
+                            "institution": "Universitas Pembangunan Nasional Jawa Timur",
+                            "tags": []
+                        }                          
                     }
                 }
             ]

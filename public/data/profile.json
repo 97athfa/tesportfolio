@@ -9,7 +9,7 @@
         },
 
         "id": {
-            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "",
             "role": "Desainer grafis, Illustrator 2d"
         }
 
@@ -22,8 +22,8 @@
             "href": null,
             "locales": {
                 "en": {
-                    "value": "123 Main Street, Cupertino, CA 01234",
-                    "valueShort": "Cupertino – CA"
+                    "value": "Sidoarjo, Indonesia",
+                    "valueShort": "Sidoarjo"
                 },
                 "es": {
                     "valueShort": "California – EE.UU."
@@ -33,16 +33,19 @@
                 },
                 "zh": {
                     "valueShort": "美国加州"
-                }
+                },
+                "id": {
+                    "valueShort": "Sidoarjo"
+                }                
             }
         },
 
         {
             "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
+            "value": "athayarafa97@gmail.com",
+            "valueShort": "athayarafa97@gmail.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com"
+            "href": "mailto:athayarafa97@gmail.com"
         },
 
         {
@@ -79,10 +82,10 @@
 
         {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+62853148888827",
+            "valueShort": "62853148888827",
             "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890"
+            "href": "tel:62853148888827"
         }
     ]
 }
