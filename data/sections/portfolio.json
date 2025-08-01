@@ -1,0 +1,137 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": null,
+                    "category_all": "All",
+                    "category_productivity": "Productivity",
+                    "category_games": "Social"
+                },
+
+                "es": {
+                    "title": null,
+                    "category_all": "Todos",
+                    "category_productivity": "Productividad",
+                    "category_games": "games"
+                },
+
+                "fr": {
+                    "title": null,
+                    "category_all": "Tous",
+                    "category_productivity": "Productivité",
+                    "category_games": "Social"
+                },
+
+                "zh": {
+                    "title": null,
+                    "category_all": "全部",
+                    "category_productivity": "生产力",
+                    "category_games": "games"
+                },
+                "id": {
+                    "title": null,
+                    "category_all": "Semua",
+                    "category_productivity": "Produktifitas",
+                    "category_games": "games"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/portfolio/project-logo-3.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "2d Game Artist Portfolio",
+                            "description": "<b>gamesportfolio</b> This is my 2d game artist portfolio.",
+                            "tags": ["Games", "productivity", "adventure", "pixelart"]
+                        },
+                        "id": {
+                            "description": "<b>gamesportfolio</b> Berikut merupakan portofolio saya sebagai 2d Game artist.",
+                            "tags": ["game", "produktivitas", "petualangan", "gambar pixel"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-google-drive", "href": "https://docs.google.com/presentation/d/109PWkI5G3JKi8nYSUePmHGKvLtGoG-Vr/edit?usp=drivesdk&ouid=110614032431123571917&rtpof=true&sd=true", "stringKey": "view_on_google_drive"}
+                    ]
+                },
+
+                {
+                    "id": 2,
+                    "img": "images/portfolio/project-logo-6.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "Graphic Designer Portfolio",
+                            "description": "<b>Graphicdesignerportfolio</b> This is my graphic Designer Portfolio.",
+                            "tags": ["Design", "Branding", "Graphic Design", "productivity"]
+                        },
+                        "id": {
+                            "description": "<b>Graphicdesignerportfolio</b> Berikut merupakan portofolio saya sebagai desainer grafis.",
+                            "tags": ["Desain", "Branding", "Desainer grafis", "productivitas"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-google-drive", "href": "https://drive.google.com/file/d/1-PLTC2kIT0xzHEnY7dPlvBtiCZiQoscf/view?usp=drivesdk", "stringKey": "view_on_google_drive"}
+                    ]
+                },
+
+                {
+                    "id": 3,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-crow",
+                    "fallbackFaIconColor": "#7c4d91",
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "2d Illustrator Portfolio",
+                            "description": "<b>2d Illustrator Portfolio</b>! This is my 2d illustrator portfolio.",
+                            "tags": ["illustration", "digital", "art", "anime"]
+                        },
+                        "id": {
+                            "description": "<b>2d Illustrator Portfolio</b>! Ya seas un observador experimentado o un principiante, esta aplicación te ayuda a identificar especies, registrar avistamientos y seguir patrones de migración. Utiliza el reconocimiento por IA, mapas interactivos y perfiles detallados para mejorar tu experiencia en la observación de aves. ¡Acércate a la naturaleza con <b>Bird Tracker</b>!",
+                            "tags": ["Ilustrasi", "digital", "gambar", "anime"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-google-drive", "href": "https://drive.google.com/file/d/13VV9rP2yko4a69GdfMJ9ebu9A32k4WWr/view?usp=drivesdk", "stringKey": "view_on_google_drive"}
+                    ]
+                },
+
+                {
+                    "id": 4,
+                    "img": "images/portfolio/itchio.jpg",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "games",
+                    "locales": {
+                        "en": {
+                            "title": "Escape The Ruins",
+                            "description": "<b>escape the ruins</b> is one of my adventure game project.",
+                            "tags": ["games", "adventure", "hardcore"]
+                        },
+                        "es": {
+                            "description": "<b>escape the ruins</b> merupakan salah satu projek game petualangan saya.",
+                            "tags": ["permainan", "petualangan", "sulit"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://the-catalysts.itch.io/pelarian-dari-reruntuhan", "stringKey": "view_on_itch.io"}
+                    ]
+                }
+
+            ]
+        }
+    ]
+}

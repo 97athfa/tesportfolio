@@ -1,0 +1,63 @@
+{
+    "articles": [
+
+
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Certifications"},
+                "es": {"title": "Certificaciones"},
+                "fr": {"title": "Certifications"},
+                "zh": {"title": "获得的证书"},
+                "id": {"title": "Sertifikasi"}
+                
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2024, "month": 8},
+                    "fallbackFaIcon": "fa-brands fa-google",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Visual Communication  Design",
+                            "description": "Certified on visual communication design by An independent institution in Indonesia responsible for providing job competency certification to the workforce.",
+                            "institution": "BNSP"
+                        },
+
+                        "es": {
+                            "title": "Certificación de Diseño UX de Google",
+                            "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario.",
+                            "institution": "Google"
+                        },
+
+                        "fr": {
+                            "title": "Certification Google UX Design",
+                            "description": "Certifié par Google en conception UX ; a démontré une expertise en design centré sur l'utilisateur.",
+                            "institution": "Google"
+                        },
+
+                        "zh": {
+                            "title": "Google用户体验设计认证",
+                            "description": "通过Google用户体验设计认证；展示了用户中心设计的专业知识。",
+                            "institution": "Google"
+                        },
+                        "id": {
+                            "title": "Desain Komunikasi Visual",
+                            "description": "Tersertifikasi dalam desain komunikasi visual oleh lembaga independen di Indonesia yang bertanggung jawab dalam memberikan sertifikasi kompetensi kerja bagi tenaga kerja.",
+                            "institution": "BNSP"
+                        }                        
+                    }
+
+                }
+
+                
+            ]
+        }
+    ]
+}

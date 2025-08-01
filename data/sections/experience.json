@@ -1,0 +1,211 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": "2021", "month" : "0"},
+                    "dateEnd": {"string": "now"},
+                    "img": "images/portfolio/freelance.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Freelance Illustrator",
+                            "description": "Create a digital illustration based on client request.",
+                            "list": {
+                                "items": [
+                                    "Anime style Illustration.",
+                                    "Chibi style Illustration.",
+                                    "Cartoon style illustration.",
+                                    "Creating Virtual stremer model and streaming asset.",
+                                    "Pixel art"
+                                ]
+                            },
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Freelance",
+                            "tags": []
+                        },
+
+                        "es": {
+                            "title": "Diseñador de UX",
+                            "description": "Contribuí al diseño de interfaces de aplicaciones web <strong>intuitivas</strong> y <strong>fáciles de usar</strong>, creando experiencias de usuario atractivas y fluidas. Colaboré estrechamente con equipos multifuncionales y partes interesadas para garantizar que los diseños estuvieran alineados con los objetivos comerciales y las necesidades de los usuarios.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Realicé <strong>investigación de usuarios</strong> para recopilar información y tomar decisiones de diseño.",
+                                    "Creé wireframes, prototipos y diseños de alta fidelidad utilizando <strong>Figma.</strong>",
+                                    "Colaboré con desarrolladores para garantizar la <strong>viabilidad del diseño</strong> y su implementación.",
+                                    "Realicé <strong>pruebas de usabilidad</strong> para validar los diseños y recopilar comentarios."
+                                ]
+                            },
+                            "province": "Hannover",
+                            "country": "Alemania",
+                            "institution": "UX Masters Studio",
+                            "tags": ["Figma", "Prototipado", "Diseño Responsivo", "Investigación de Usuarios", "Wireframing"]
+                        },
+
+                        "fr": {
+                            "title": "Designer UX",
+                            "description": "A contribué à la conception d'interfaces d'applications web <strong>intuitives</strong> et <strong>conviviales</strong>, créant des expériences utilisateur engageantes et fluides. A collaboré étroitement avec des équipes interfonctionnelles et des parties prenantes pour garantir que les conceptions soient alignées sur les objectifs commerciaux et les besoins des utilisateurs.",
+                            "list": {
+                                "title": "Responsabilités Clés",
+                                "items": [
+                                    "A mené des <strong>recherches utilisateur</strong> pour recueillir des informations et éclairer les décisions de conception.",
+                                    "A créé des maquettes, des prototypes et des designs haute-fidélité en utilisant <strong>Figma.</strong>",
+                                    "A collaboré avec les développeurs pour garantir la <strong>faisabilité du design</strong> et sa mise en œuvre.",
+                                    "A réalisé des <strong>tests d'utilisabilité</strong> pour valider les conceptions et recueillir des retours."
+                                ]
+                            },
+                            "province": "Hanovre",
+                            "country": "Allemagne",
+                            "institution": "UX Masters Studio",
+                            "tags": ["Figma", "Maquettes", "Prototypage", "Design Responsive", "Recherche Utilisateur"]
+                        },
+
+                        "zh": {
+                            "title": "用户体验设计师",
+                            "description": "参与设计直观且用户友好的网络应用界面，创造引人入胜且无缝的用户体验。与跨职能团队和利益相关者紧密合作，确保设计与业务目标和用户需求保持一致。",
+                            "list": {
+                                "title": "主要职责",
+                                "items": [
+                                    "进行用户研究以收集见解并指导设计决策。",
+                                    "使用Figma创建线框图、原型和高保真设计。",
+                                    "与开发人员合作，确保设计的可行性和实施。",
+                                    "进行可用性测试以验证设计并收集反馈。"
+                                ]
+                            },
+                            "province": "汉诺威",
+                            "country": "德国",
+                            "institution": "UX Masters Studio",
+                            "tags": ["Figma", "线框图", "原型设计", "响应式设计", "用户研究"]
+                        },
+                        "id": {
+                            "title": "Pekerja Lepas Ilustrator",
+                            "description": "Membuat ilustrasi digital sesuai permintaan klien.",
+                            "list": {
+                                "items": [
+                                    "Ilustrasi bergaya anime.",
+                                    "Ilustrasi bergaya chibi.",
+                                    "lustrasi bergaya kartun.",
+                                    "Membuat model virtual streamer dan aset streaming.",
+                                    "Seni piksel"
+                                ]
+                            },
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Freelance",
+                            "tags": []
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": "2021", "month" : "0"},
+                    "dateEnd": {"string": "now"},
+                    "img": "images/portfolio/freelance.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Freelance Graphic Designer ",
+                            "description": "Create graphic design based on client request.",
+                            "list": {
+                                "items": [
+                                    "Illustrating Poster and media promotion.",
+                                    "Create logo, and brand guidelines.",
+                                    "Create social media feeds."
+                                ]
+                            },
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Freelance",
+                            "tags": []
+                        },
+
+                        "es": {
+                            "title": "Designer Senior UI/UX",
+                            "description": "Lideré el diseño de interfaces de usuario innovadoras y experiencias para los <strong>productos insignia de Adobe</strong>, enfocándome en principios de diseño basados en datos. Colaboré con gerentes de producto e ingenieros para crear diseños intuitivos y visualmente atractivos que mejoren el compromiso y la satisfacción del usuario.",
+                            "list": {
+                                "title": "Responsabilidades Clave:",
+                                "items": [
+                                    "Desarrollé prototipos y wireframes de alta fidelidad utilizando <strong>Figma</strong> y <strong>Adobe XD</strong>.",
+                                    "Realicé <strong>pruebas de usuario</strong> e investigación para informar las decisiones de diseño.",
+                                    "Colaboré con equipos <strong>multifuncionales</strong> para garantizar la consistencia y calidad del diseño.",
+                                    "<strong>Mentoricé a diseñadores junior</strong> en mejores prácticas y metodologías de diseño."
+                                ]
+                            },
+                            "province": "California",
+                            "country": "EE. UU.",
+                            "institution": "Adobe",
+                            "tags": ["Figma", "Adobe XD", "Sketch", "Diseño Basado en Datos"]
+                        },
+
+                        "fr": {
+                            "title": "Designer UI/UX Senior",
+                            "description": "A dirigé la conception d'interfaces utilisateur innovantes et d'expériences pour les <strong>produits phares d'Adobe</strong>, en mettant l'accent sur les principes de conception basés sur les données. A collaboré avec des chefs de produit et des ingénieurs pour créer des designs intuitifs et visuellement attrayants qui améliorent l'engagement et la satisfaction des utilisateurs.",
+                            "list": {
+                                "title": "Responsabilités Clés:",
+                                "items": [
+                                    "A développé des prototypes et des maquettes haute-fidélité en utilisant <strong>Figma</strong> et <strong>Adobe XD</strong>.",
+                                    "A mené des <strong>tests utilisateurs</strong> et des recherches pour éclairer les décisions de conception.",
+                                    "A collaboré avec des équipes <strong>interfonctionnelles</strong> pour garantir la cohérence et la qualité du design.",
+                                    "<strong>A encadré des designers juniors</strong> sur les meilleures pratiques et méthodologies de conception."
+                                ]
+                            },
+                            "province": "Californie",
+                            "country": "États-Unis",
+                            "institution": "Adobe",
+                            "tags": ["Figma", "Adobe XD", "Sketch", "Conception Basée sur les Données"]
+                        },
+
+                        "zh": {
+                            "title": "高级UI/UX设计师",
+                            "description": "领导设计创新的用户界面和体验，专注于数据驱动的设计原则，服务于Adobe的旗舰产品。与产品经理和工程师合作，创建直观且视觉吸引力强的设计，以增强用户参与度和满意度。",
+                            "list": {
+                                "title": "主要职责:",
+                                "items": [
+                                    "使用Figma和Adobe XD开发高保真原型和线框图。",
+                                    "进行用户测试和研究以指导设计决策。",
+                                    "与跨职能团队合作，确保设计的一致性和质量。",
+                                    "指导初级设计师最佳实践和设计方法论。"
+                                ]
+                            },
+                            "province": "加利福尼亚州",
+                            "country": "美国",
+                            "institution": "Adobe",
+                            "tags": ["Figma", "Adobe XD", "Sketch", "数据驱动设计"]
+                        },
+                        "id": {
+                            "title": "Pekerja Lepas Desainer Grafis",
+                            "description": "Membuat desain grafis sesuai permintaan klien.",
+                            "list": {
+                                "items": [
+                                    "Membuat poster dan media promosi.",
+                                    "Membuat logo dan panduan identitas merek.",
+                                    "Membuat konten untuk media sosial."
+                                ]
+                            },
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Freelance",
+                            "tags": []
+                        }                      
+                    }
+                }
+
+            ]
+        }
+    ]
+}

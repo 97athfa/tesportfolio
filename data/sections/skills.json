@@ -1,0 +1,255 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paint-roller",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Design Principles",
+                            "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Principios de Diseño",
+                            "description": "Experto en diseño: fusiono teoría del color, tipografía, layout y equilibrio para cautivar y transmitir mensajes.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Principes de Conception",
+                            "description": "Habile en design: utilise principes couleur, typo, composition et équilibre pour captiver et transmettre efficacement.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "设计原则",
+                            "description": "运用色彩理论、排版、版面构图和平衡等基本原则，巧妙打造视觉吸引的设计，以吸引观众并有效传达信息。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Prinsip Desain",
+                            "description": "Menguasai pembuatan desain yang memikat dengan menggabungkan teori warna, tipografi, tata letak, dan keseimbangan untuk menyampaikan pesan secara efektif.",
+                            "level": null
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-mobile-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Graphic Design",
+                            "description": "Skilled at creating a graphic design based on what needed.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Diseños Responsivos",
+                            "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Mises en Page Réactives",
+                            "description": "Compétent pour créer des mises en page adaptables pour divers appareils, assurant une expérience utilisateur optimale.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "响应式布局",
+                            "description": "擅长为不同设备创建适应性布局，通过无缝调整设计元素和内容以适配不同屏幕尺寸，确保最佳用户体验。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Desain Grafis",
+                            "description": "Terampil dalam membuat desain grafis sesuai dengan kebutuhan.",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-vector-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "2D  Illustration",
+                            "description": "Skilled on making anime, cartoon, and pixel Stylized artstyle.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Creación de Wireframes",
+                            "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Création de Wireframes",
+                            "description": "Compétent dans la création de wireframes détaillés pour visualiser et planifier les interfaces utilisateur.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "线框图设计",
+                            "description": "熟练制作详细的线框图，以便可视化和规划用户界面。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Ilustrasi 2D",
+                            "description": "Terampil dalam membuat ilustrasi bergaya anime, kartun, dan seni bergaya piksel (pixel art).",
+                            "level": null
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-check-double",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Vector",
+                            "description": "Skilled on making vector.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Pruebas de Usabilidad",
+                            "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Tests d'Utilisabilité",
+                            "description": "Expérimenté dans l'amélioration des expériences utilisateur grâce à des tests d'utilisabilité.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "可用性测试",
+                            "description": "通过全面的可用性测试提升用户体验。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Vektor",
+                            "description": "Terampil dalam membuat ilustrasi vektor.",
+                            "level": null
+                        }                        
+                    }
+                }
+            ]
+        },
+
+    
+
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Languages"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/en-us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Basic understanding of English; learning and improving.",
+                            "level": "Beginner"
+                        },
+                        "es": {
+                            "title": "Inglés",
+                            "description": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
+                            "level": "Nativo"
+                        },
+                        "fr": {
+                            "title": "Anglais",
+                            "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture.",
+                            "level": "Langue maternelle"
+                        },
+                        "zh": {
+                            "title": "英语",
+                            "description": "母语人士，具有出色的沟通和写作能力。",
+                            "level": "母语"
+                        },
+                        "id": {
+                            "title": "Bahasa Inggris",
+                            "description": "Pemahaman dasar terhadap Bahasa Inggris; sedang dalam proses belajar dan meningkatkan kemampuan.",
+                            "level": "Pemula"
+                        }                        
+                    }
+                },
+
+               
+
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/id.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Indonesian",
+                            "description": "Native speaker with excellent communication and writing skills.",
+                            "level": "Native"
+                        },
+                        "es": {
+                            "title": "Portugués Brasileño",
+                            "description": "Comprensión básica del portugués brasileño; aprendiendo y mejorando.",
+                            "level": "Principiante"
+                        },
+                        "fr": {
+                            "title": "Portugais Brésilien",
+                            "description": "Compréhension de base du portugais brésilien ; en cours d'apprentissage et d'amélioration.",
+                            "level": "Débutant"
+                        },
+                        "zh": {
+                            "title": "巴西葡萄牙语",
+                            "description": "对巴西葡萄牙语有基本的理解；正在学习和改进。",
+                            "level": "初学者"
+                        },
+                        "id": {
+                            "title": "Bahasa Indonesia",
+                            "description": "Penutur asli dengan kemampuan komunikasi dan menulis yang sangat baik.",
+                            "level": "Penutur Asli"
+                        }                        
+                    }
+                }
+            ]
+        }
+    ]
+}

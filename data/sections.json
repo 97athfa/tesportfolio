@@ -1,0 +1,202 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Welcome to *My Portfolio!*",
+                    "title_short": "Welcome!",
+                    "description": null,
+                    "nav_label": "About"
+                },
+                "id": {
+                    "title": "Selamat datang di *portofolio saya*",
+                    "title_short": "Selamat datang!",
+                    "description": null,
+                    "nav_label": "tentang"
+                }
+                
+            }
+        },
+
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Education* Background",
+                    "title_short": null,
+                    "description": "A glimpse into my academic trajectory and accomplishments.Sekilas tentang perjalanan dan pencapaian akademik saya.",
+                    "nav_label": "Education"
+                },
+                "id": {
+                    "title": "Latar *Pendidikan*",
+                    "title_short": null,
+                    "description": "Sekilas tentang perjalanan dan pencapaian akademik saya.",
+                    "nav_label": "Pendidikan"
+                }
+            }
+        },
+
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                },
+                "id": {
+                   
+  "title": "Kumpulan *Keterampilan*",
+  "title_short": null,
+  "description": "Menjelajahi berbagai keterampilan yang telah saya peroleh dan kembangkan:",
+  "nav_label": "Keterampilan"
+                }
+            }
+        },
+
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "es": {
+                    "title": "Pengalaman *Profesional*",
+                    "title_short": null,
+                    "description": "Un vistazo a mi experiencia laboral y trayectoria profesional.",
+                    "nav_label": "Pengalaman"
+                },
+                "fr": {
+                    "title": "Expérience *Professionnelle*",
+                    "title_short": null,
+                    "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière.",
+                    "nav_label": "Expérience"
+                },
+                "zh": {
+                    "title": "*专业* 经验",
+                    "title_short": null,
+                    "description": "了解我的工作经验和职业之旅。",
+                    "nav_label": "工作经历"
+                },
+                "id": {
+                    "title": "*Pengalaman* Profesional",
+                    "title_short": null,
+                    "description": "Sekilas tentang pengalaman kerja dan karir saya.",
+                    "nav_label": "Pengalaman"
+                }
+            }
+        },
+
+        {
+            "id": "portfolio",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/portfolio.json",
+            "faIcon": "fa-solid fa-folder-open",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "My *Portfolio*",
+                    "title_short": null,
+                    "description": "Explore a selection of my recent projects and creative works.",
+                    "nav_label": "Portfolio"
+                },
+                "id": {
+                    "title": "Portofolio *Saya*",
+                    "title_short": null,
+                    "description": "Jelajahi beberapa pilihan proyek terbaru dan karya kreatif saya",
+                    "nav_label": "Portofolio"
+            
+                }
+            }
+        },
+
+        {
+            "id": "achievements",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/achievements.json",
+            "faIcon": "fa-solid fa-award",
+            "type": "row",
+            "locales": {
+                "en": {
+                    "title": "Career *Achievements*",
+                    "title_short": null,
+                    "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:",
+                    "nav_label": "Achievements"
+                },
+                "id": {
+                    
+  "title": "Pencapaian *Karir*",
+  "title_short": null,
+  "description": "Perjalanan saya sebagai desainer UX ditandai oleh dedikasi yang tak tergoyahkan terhadap pembelajaran dan peningkatan keterampilan, serta partisipasi antusias dalam berbagai acara desain. Sebagai hasilnya, saya telah mengumpulkan daftar penghargaan dan sertifikasi yang patut dicatat:",
+  "nav_label": "Pencapaian"
+                }
+            }
+        },
+
+        {
+            "id": "hobbies",
+            "categoryId": "more",
+            "jsonPath": "/sections/hobbies.json",
+            "faIcon": "fa-solid fa-heart",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Hobbies* & Interests",
+                    "title_short": null,
+                    "description": "This is pretty much how I spend my free time:",
+                    "nav_label": "Hobbies"
+                },
+                "id": {
+                    "title": "*Hobi* & Ketertarikan",
+                    "title_short": null,
+                    "description": "Berikut beberapa aktivitas yang saya lakukan dalam waktu luang saya:",
+                    "nav_label": "Aktifitas"
+                }
+            }
+        },
+
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json",
+            "faIcon": "fa-solid fa-pen-to-square",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Contact* Me",
+                    "title_short": null,
+                    "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+                    "nav_label": "Contact"
+                },
+                "id": {
+                    "title": "Kontak *Saya*",
+                    "title_short": null,
+                    "description": "Jangan ragu untuk menghubungi saya kapanpun anda merasa perlu",
+                    "nav_label": "Kontak"
+            
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2035, "month": 5},
+                    "dateEnd": {"year": 2025, "month": 5},
+                    "img": "images/places/kisaienter.png",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#140f29",
+
+                    "locales": {
+                        "en": {
+                            "title": "Techinal Course of KY Experience Day from Kisai Entertaiment",
+                            "description": "Completed a technical course focusing on software development fundamentals, including object-oriented programming, web development, and database management. Developed several projects applying real-world coding skills.",
+                            "province": "East Java",
+                            "country": "Indonesian",
+                            "institution": "Kisai Entertainment",
+                            "tags": []
+                        },
+
+                        "es": {
+                            "title": "Curso Técnico en Programación",
+                            "description": "Completó un curso técnico centrado en los fundamentos del desarrollo de software, incluyendo programación orientada a objetos, desarrollo web y gestión de bases de datos. Desarrolló varios proyectos aplicando habilidades de codificación en el mundo real.",
+                            "province": "San Francisco",
+                            "country": "EE.UU.",
+                            "institution": "Codecademy",
+                            "tags": []
+                        },
+
+                        "fr": {
+                            "title": "Cours Technique en Programmation",
+                            "description": "A suivi un cours technique axé sur les fondamentaux du développement logiciel, y compris la programmation orientée objet, le développement web et la gestion de bases de données. A développé plusieurs projets appliquant des compétences de codage en situation réelle.",
+                            "province": "San Francisco",
+                            "country": "États-Unis",
+                            "institution": "Codecademy",
+                            "tags": []
+                        },
+
+                        "zh": {
+                            "title": "编程技术课程",
+                            "description": "完成了一门技术课程，重点讲解软件开发基础，包括面向对象编程、网页开发和数据库管理。开发了多个项目，应用了实际的编码技能。",
+                            "province": "旧金山",
+                            "country": "美国",
+                            "institution": "Codecademy",
+                            "tags": []
+                        },
+                        "id": {
+                            "title": "Pelatihan KY Experience Day dari Kisai Entertaiment ",
+                            "description": "完成了一门技术课程，重点讲解软件开发基础，包括面向对象编程、网页开发和数据库管理。开发了多个项目，应用了实际的编码技能。",
+                            "province": "Jawa Timur",
+                            "country": "Indonesia",
+                            "institution": "Kisai Entertainment",
+                            "tags": []
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2021, "month": 0},
+                    "dateEnd": {"year": 2021, "month": 6},
+                    "img": "images/places/infinite.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Completed a technical course focusing on game development fundamentals, including object-oriented programming, game asset creation and management, and story boarding. Developed a game project as a final exam of the technical course.",
+                            "description": "Graduated with a solid foundation in graphic design while specializing in user experience design. Acquired expertise in visual storytelling, UI design, and collaborative design thinking.",
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Infinite Learning",
+                            "tags": []
+                        },
+
+                        "es": {
+                            "title": "Licenciatura en Diseño Gráfico con Énfasis en UX",
+                            "description": "Graduado con una sólida formación en diseño gráfico con especialización en diseño de experiencia de usuario. Adquirió experiencia en narración visual, diseño de interfaz de usuario y pensamiento de diseño colaborativo.",
+                            "province": "Massachusetts",
+                            "country": "EE. UU",
+                            "institution": "Universidad de Harvard",
+                            "tags": []
+                        },
+
+                        "fr": {
+                            "title": "Baccalauréat en Design Graphique avec Accent sur l'UX",
+                            "description": "Diplômé avec une base solide en design graphique tout en se spécialisant dans la conception de l'expérience utilisateur. Acquis une expertise en narration visuelle, en design d'interface utilisateur et en réflexion collaborative sur la conception.",
+                            "province": "Massachusetts",
+                            "country": "États-Unis",
+                            "institution": "Université Harvard",
+                            "tags": []
+                        },
+
+                        "zh": {
+                            "title": "平面设计学士学位，强调 UX",
+                            "description": "毕业于平面设计领域，专攻用户体验设计，掌握了视觉叙事、用户界面设计和协作式设计思维方面的专业知识。",
+                            "province": "马萨诸塞州",
+                            "country": "美国",
+                            "institution": "哈佛大学",
+                            "tags": []
+                        },
+                        "id": {
+                            "title": "Pelatihan Game Development oleh Infinite Learning",
+                            "description": "Menyelesaikan kursus teknis yang berfokus pada dasar-dasar pengembangan game, termasuk pemrograman berorientasi objek, pembuatan dan manajemen aset game, serta pembuatan storyboard. Mengembangkan sebuah proyek game sebagai ujian akhir dari kursus tersebut.",
+                            "province": "Jawa Timur",
+                            "country": "Indonesia",
+                            "institution": "Infinite Learning",
+                            "tags": []
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2021, "month": 0},
+                    "dateEnd": {"year": 2025, "month": 0},
+                    "img": "images/places/upn.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor's in Visual Design",
+                            "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies.",
+                            "province": "",
+                            "country": "France",
+                            "institution": "University of Paris",
+                            "tags": []
+                        },
+
+                        "es": {
+                            "title": "Maestría en Interacción Humano-Computadora",
+                            "description": "Completó un programa intensivo centrado en los principios de diseño centrado en el usuario, pruebas de usabilidad y diseño de interacción. Desarrolló habilidades en la creación de wireframes, prototipado y metodologías de investigación de usuarios.",
+                            "province": "",
+                            "country": "Francia",
+                            "institution": "Universidad de París",
+                            "tags": []
+                        },
+
+                        "fr": {
+                            "title": "Master en Interaction Humain-Ordinateur",
+                            "description": "A achevé un programme intensif axé sur les principes de conception centrés sur l'utilisateur, les tests de convivialité et la conception d'interaction. Développé des compétences en wireframing, en prototypage et en méthodologies de recherche utilisateur.",
+                            "province": "",
+                            "country": "France",
+                            "institution": "Université de Paris",
+                            "tags": []
+                        },
+
+                        "zh": {
+                            "title": "人机交互硕士学位",
+                            "description": "完成了一项专注于以用户为中心的设计原则、可用性测试和交互设计的密集课程。培养了线框图、原型制作和用户研究方法方面的技能。",
+                            "province": "",
+                            "country": "法国",
+                            "institution": "巴黎大学",
+                            "tags": []
+                        },
+                        "id": {
+                            "title": "Sarjana Desain Komunikasi Visual",
+                            "description": "Lulus dengan dasar yang kuat dalam desain grafis dan mengambil spesialisasi di bidang desain 2D. Menguasai keterampilan dalam storytelling visual dan pemikiran desain kolaboratif.",
+                            "province": "Jawa Timur",
+                            "country": "Indonesia",
+                            "institution": "Universitas Pembangunan Nasional Jawa Timur",
+                            "tags": []
+                        }                          
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,416 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": null},
+                "es": {"title": null},
+                "fr": {"title": null},
+                "zh": {"title": null}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": "pie"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-users",
+                    "fallbackFaIconColor": "#FF6384",
+                    "percentage": 20,
+                    "locales": {
+                        "en": {
+                            "title": "Family Time",
+                            "description": "Time spent with cherished loved ones.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Familia",
+                            "description": "Tiempo con seres queridos apreciados.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Famille",
+                            "description": "Temps passé avec des proches chéris.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "家人和朋友",
+                            "description": "与珍爱的亲人共度时光，创造终身难忘的回忆。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Waktu untuk Keluarga",
+                            "description": "Waktu yang dihabiskan bersama orang-orang tercinta",
+                            "level": null
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-tasks",
+                    "fallbackFaIconColor": "#36A2EB",
+                    "percentage": 25,
+                    "locales": {
+                        "en": {
+                            "title": "My Projects",
+                            "description": "Pursuing my creative endeavors.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Mis Proyectos",
+                            "description": "Persiguiendo mis proyectos creativos.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Mes Projets",
+                            "description": "Poursuivre mes projets créatifs.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "个人项目",
+                            "description": "追求创意事业，将想法变成现实。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Proyek Pribadi",
+                            "description": "Menekuni kegiatan kreatif saya",
+                            "level": null
+                        }                    
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-couch",
+                    "fallbackFaIconColor": "#FFCD56",
+                    "percentage": 15,
+                    "locales": {
+                        "en": {
+                            "title": "Relaxing",
+                            "description": "Stretch my weared body and mind",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Relajación",
+                            "description": "Vagueando y orgulloso de ello :)",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Détente",
+                            "description": "Flemmard et fier de l’être :)",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "放松",
+                            "description": "摆烂并为此自豪 :)",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Relaksasi",
+                            "description": "Meregangkan tubuh dan pikiranku yang lelah",
+                            "level": null
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-book",
+                    "fallbackFaIconColor": "#C5B0FF",
+                    "percentage": 20,
+                    "locales": {
+                        "en": {
+                            "title": "Reading",
+                            "description": "Embarking on a continuous journey of learning.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Estudio",
+                            "description": "Embarcando en un viaje continuo de aprendizaje.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Études",
+                            "description": "Entamer un voyage continu d'apprentissage.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "学习",
+                            "description": "踏上持续的学习和自我提升之旅。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Membaca",
+                            "description": "Memulai perjalanan belajar yang tiada henti",
+                            "level": null
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-dumbbell",
+                    "fallbackFaIconColor": "#8EE3C5",
+                    "percentage": 10,
+                    "locales": {
+                        "en": {
+                            "title": "Cooking",
+                            "description": "Dedicating time to cuisine endeavour.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Ejercicio",
+                            "description": "Dedicando tiempo al bienestar físico.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Exercice",
+                            "description": "Consacrer du temps au bien-être physique.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "锻炼",
+                            "description": "致力于身体健康，培养健康的生活方式。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Memasak",
+                            "description": "Meluangkan waktu untuk kegiatan kulinee",
+                            "level": null
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-utensils",
+                    "fallbackFaIconColor": "#EEB79A",
+                    "percentage": 10,
+                    "locales": {
+                        "en": {
+                            "title": "Video Game",
+                            "description": "Adventuring various worlds.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Cocina",
+                            "description": "Creando obras maestras culinarias.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Cuisine",
+                            "description": "Créer des chefs-d'œuvre culinaires.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "烹饪",
+                            "description": "创造烹饪杰作，在每道菜肴中注入风味。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Permainan Video",
+                            "description": "Menjelajahi beragam dunia",
+                            "level": null
+                        }                        
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Side pursuits"
+                },
+                "es": {
+                    "title": "Exploraciones"
+                },
+                "fr": {
+                    "title": "Intérêts annexes"
+                },
+                "zh": {
+                    "title": "额外兴趣"
+                },
+                "id": {
+                    "title": "Kegiatan Sampingan"
+                }                
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paint-brush",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Visual Art",
+                            "description": "Exploring visual aesthetics, graphic design, and expressing ideas through artistic creativity.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Diseño de Experiencia de Usuario",
+                            "description": "Destacada habilidad en crear experiencias digitales centradas en el usuario. Experto en hacer que la tecnología sea intuitiva y accesible, mejorando la satisfacción del usuario.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Conception d'Expérience Utilisateur",
+                            "description": "Compétent dans la création d'expériences numériques centrées sur l'utilisateur. Habile à rendre la technologie intuitive et accessible, améliorant la satisfaction des utilisateurs.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "用户体验设计",
+                            "description": "擅长创造以用户为中心的数字体验。精通使技术直观易用，提升用户满意度。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Seni Visual",
+                            "description": "Mengeksplorasi estetika visual, desain grafis, dan mengekspresikan ide melalui kreativitas artistik.",
+                            "level": null
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-keyboard",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Illustration",
+                            "description": "Exploring digital Illustration.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Programación",
+                            "description": "Explorar código, algoritmos y desarrollar soluciones de software para desafíos del mundo real.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Programmation",
+                            "description": "Exploration du code, des algorithmes et création de solutions logicielles pour des défis réels.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "编程",
+                            "description": "探索代码、算法，为现实世界的挑战构建软件解决方案。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Ilustrasi",
+                            "description": "Mengeksplorasi ilustrasi digital.",
+                            "level": null
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-music",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Freelance",
+                            "description": "Doing some freelance job.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Música",
+                            "description": "Tocar instrumentos, componer y abrazar la armonía de diversos géneros musicales.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Musique",
+                            "description": "Jouer d'instruments, composer et apprécier l'harmonie de genres musicaux variés.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "音乐",
+                            "description": "演奏乐器，作曲，融合多种音乐流派的和谐。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Pekerja Lepas",
+                            "description": "Mengerjakan beberapa pekerjaan lepas.",
+                            "level": null
+                        }                        
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-users",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Webtoon",
+                            "description": "Creating webtoon on my free time.",
+                            "level": null
+                        },
+                        "es": {
+                            "title": "Investigación de Usuarios",
+                            "description": "Profundizar en el comportamiento y perspectivas del usuario para definir estrategias de diseño efectivas.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Recherche Utilisateur",
+                            "description": "Explorer le comportement et les perceptions des utilisateurs pour façonner des stratégies de conception efficaces.",
+                            "level": null
+                        },
+                        "zh": {
+                            "title": "用户研究",
+                            "description": "深入研究用户行为和见解，塑造有效的设计策略。",
+                            "level": null
+                        },
+                        "id": {
+                            "title": "Webtoon",
+                            "description": "Membuat webtoon di waktu luang.",
+                            "level": null
+                        }                        
+                    }
+                }
+
+               
+            ]
+        }
+    ]
+}
