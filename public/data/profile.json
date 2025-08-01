@@ -1,6 +1,6 @@
 {
     "name": "Athaya Rafa",
-    "profilePictureUrl": "images/pictures/avatar.jpg",
+    "profilePictureUrl": "images/pictures/fff.jpg",
 
     "locales": {
         "en": {
@@ -50,34 +50,34 @@
 
         {
             "id": "facebook",
-            "value": "Roy Sheppard",
-            "valueShort": "Roy S.",
+            "value": "Athaya Rafa",
+            "valueShort": "Athaya",
             "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
+            "href": "https://www.facebook.com/share/1EV5EVjEBm/"
         },
 
         {
             "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@97athfa",
+            "valueShort": "@97athfa",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/97athfa"
         },
 
         {
             "id": "instagram",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@97athfa",
+            "valueShort": "@97athfa",
             "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
+            "href": "https://www.instagram.com/97athfa"
         },
 
         {
             "id": "linkedin",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@athaya rafa putri",
+            "valueShort": "@athaya rafa",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://www.linkedin.com/in/athaya-putri-4058391b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
 
         {

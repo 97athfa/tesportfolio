@@ -8,13 +8,13 @@
             "type": "centered",
             "locales": {
                 "en": {
-                    "title": "Welcome to *Portfolio!*",
+                    "title": "Welcome to *My Portfolio!*",
                     "title_short": "Welcome!",
                     "description": null,
                     "nav_label": "About"
                 },
                 "id": {
-                    "title": "Selamat datang *portofolio*",
+                    "title": "Selamat datang di *portofolio saya*",
                     "title_short": "Selamat datang!",
                     "description": null,
                     "nav_label": "tentang"

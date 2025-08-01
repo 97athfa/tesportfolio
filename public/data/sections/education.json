@@ -12,8 +12,8 @@
 
                 {
                     "id": 1,
-                    "dateStart": {"year": 2014, "month": 0},
-                    "dateEnd": {"year": 2015, "month": 0},
+                    "dateStart": {"year": 2035, "month": 5},
+                    "dateEnd": {"year": 2025, "month": 5},
                     "img": "images/places/kisaienter.png",
                     "fallbackFaIcon": "fa-solid fa-laptop-code",
                     "fallbackFaIconColor": "#140f29",
